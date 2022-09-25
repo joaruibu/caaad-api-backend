@@ -1,0 +1,16 @@
+POST  http://localhost:3200/blocks
+Content-Type: application/json
+
+{
+    "nombre": "Eliptica molona",
+    "descripcion": "Cinta para tus archivos de proyectos"
+}
+
+###
+
+POST http://localhost:3200/blocks
+Content-Type: application/json
+
+{
+    "descripcion": "Cinta para tus archivos de proyectos"
+}
